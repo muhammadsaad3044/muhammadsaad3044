@@ -1,7 +1,6 @@
 <!-- Profile Header: Animated with GSAP (in spirit!) -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/saadhuywr/saadhuywr/main/assets/gsap-logo.svg" width="38" alt="GSAP Logo" />
-  Hi there, I'm <span style="color:#5CFF5C;">Saad Hu Ywr</span>! 👋
+  Hi there, I'm <span style="color:#5CFF5C;">Muhammad Saad</span>! 👋
 </h1>
 
 <p align="center">
