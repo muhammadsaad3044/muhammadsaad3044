@@ -7,7 +7,7 @@
 <h3 align="center">Backend Developer | PHP/Laravel Specialist | React.js | Healthcare & EdTech Solutions</h3>
 
 <p align="center">
-  <a href="mailto:workwithmuhammadsaad08@gmail.com">
+  <a href="mailto:mscoder3044@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/muhammadsaad-dev">
@@ -16,7 +16,7 @@
   <a href="https://github.com/muhammadsaad3044">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://wa.me/923008798679">
+  <a href="https://wa.me/923083293044">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
@@ -434,9 +434,9 @@ I'm always open to interesting conversations, collaboration opportunities, and k
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-workwithmuhammadsaad08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithmuhammadsaad08@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mscoder3044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mscoder3044@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaad-dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_300_8798679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923008798679)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_300_8798679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923083293044)
 [![Phone](https://img.shields.io/badge/Phone-+92_308_3293044-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+923083293044)
 
 </div>
@@ -721,7 +721,7 @@ Name: Muhammad Saad
 Role: Backend Developer
 Experience: 2 Years
 Location: Rahim Yar Khan, Pakistan
-Email: workwithmuhammadsaad08@gmail.com
+Email: mscoder3044@gmail.com
 Phone: +92 308 3293044
 WhatsApp: +92 300 8798679
 LinkedIn: linkedin.com/in/muhammadsaad-dev
