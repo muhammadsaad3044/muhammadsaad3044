@@ -1,221 +1,240 @@
-```markdown
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1F4E78&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saad;Backend+Developer+%7C+Laravel+Specialist;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Muhammad%20Saad&fontSize=55&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Building%20Scalable%20Solutions&descAlignY=60&descSize=16&descColor=a8b2d8" />
+
 </div>
 
-<h3 align="center">Backend Developer | PHP/Laravel Specialist | React.js | Healthcare & EdTech Solutions</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:mscoder3044@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/muhammadsaad-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/muhammadsaad3044">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/923083293044">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=E94560&center=true&vCenter=true&width=700&lines=PHP+%2F+Laravel+%E2%80%94+2+Years+Production+Experience;9%2B+Apps+Deployed+%E2%80%A2+10%2C000%2B+Users+Served;40%25+Faster+APIs+%E2%80%A2+60%25+Better+Database+Performance;Healthcare+%7C+EdTech+%7C+CRM+%7C+E-Commerce)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadsaad3044&color=1F4E78&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a **Backend Developer** with **2 years of professional experience** specializing in **PHP/Laravel** development. Currently working at **CodesInc Software House**, where I build scalable web applications that serve thousands of users.
+[![Email](https://img.shields.io/badge/mscoder3044@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mscoder3044@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Muhammad_Saad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaad-dev)
+[![GitHub](https://img.shields.io/badge/muhammadsaad3044-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadsaad3044)
+[![WhatsApp](https://img.shields.io/badge/+92_300_8798679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923083293044)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadsaad3044&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)](https://github.com/muhammadsaad3044)
+
+📍 **Rahim Yar Khan, Punjab, Pakistan** &nbsp;|&nbsp; 🕐 **PKT (UTC+5)** &nbsp;|&nbsp; 💼 **Open to Opportunities**
+
+</div>
+
+---
+
+## ⚡ Who Am I?
 
 ```yaml
-name: Muhammad Saad
-located_in: Rahim Yar Khan, Punjab, Pakistan
-current_role: Backend Developer @ CodesInc Software House
-previous_role: Full Stack Developer @ Promotezz International
-experience: 2 years
-education: ["Intermediate - ICS (Computer Science)"]
-interests: ["Healthcare Tech", "EdTech", "API Optimization", "Clean Code"]
-languages: ["English (Professional)", "Urdu (Native)", "Punjabi (Native)"]
+name        : Muhammad Saad
+title       : Backend Developer — PHP / Laravel Specialist
+experience  : 2 Years (CodesInc 11 months + Promotezz 1Y 1M)
+location    : Rahim Yar Khan, Punjab, Pakistan
+domains     : Healthcare · EdTech · CRM · E-Commerce · Real Estate
+focus_now   : Building Kifayat LMS — 4-Role RBAC Learning Platform
+goals_2026  : Docker · AWS · Microservices · Open-Source · SaaS Launch
 ```
 
-### 🎯 What I Do
+> *"Write code that makes future developers smile, not cry."*
 
-- 🏥 **Healthcare Solutions**: Built Sehat Khidmat managing 500+ patient records
-- 📚 **EdTech Platforms**: Developing Kifayat LMS with 4-role RBAC system
-- 💼 **CRM Systems**: Created OutfitZens CRM managing 1,000+ customers
-- 🛒 **E-commerce**: Developed full-stack platforms with payment integration
-- ⚡ **Performance**: Optimized APIs by 40% and databases by 60%
+---
 
-### 🏆 Key Achievements
+## 🏆 By The Numbers
 
-```javascript
-const achievements = {
-  productionApps: "9+ deployed",
-  activeUsers: "10,000+ served",
-  apiOptimization: "40% faster",
-  databaseImprovement: "60% better",
-  uptime: "99.9%",
-  onTimeDelivery: "100%",
-  clientSatisfaction: "95%",
-  bugReduction: "35% fewer production issues"
-};
-```
+<div align="center">
+
+| 🚀 Metric | 📊 Result |
+|:---------:|:---------:|
+| **Production Apps Delivered** | **9+** |
+| **Active Users Served** | **10,000+** |
+| **API Performance Gain** | **40% Faster** |
+| **Database Optimization** | **60% Improved** |
+| **On-Time Delivery Rate** | **100%** |
+| **Platform Uptime** | **99.9%** |
+| **Production Bug Reduction** | **35% Fewer** |
+| **Client Satisfaction** | **95%** |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend Development
+### 🔧 Backend & Core
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Frontend Development
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools & Technologies
+### 🔐 Auth & Security
+![Spatie](https://img.shields.io/badge/Spatie_RBAC-F28D1A?style=for-the-badge&logo=laravel&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-00457C?style=for-the-badge&logo=shield&logoColor=white)
+
+### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-### Currently Learning
+### 📚 Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 🎯 Skills Visualization
+## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,js,html,css,tailwind,bootstrap,git,github,postman,vscode,redis,docker&perline=5" />
-</div>
+### 🏢 CodesInc Software House
+**`Backend Developer — PHP/Laravel`** &nbsp; | &nbsp; April 2025 – Present *(11 Months)*
+
+- 🏗️ Building **Kifayat LMS** — comprehensive Learning Management System with integrated book store & 4-role RBAC (Teacher · Student · Admin · Buyer) with 50+ granular permissions
+- ⚡ Optimized **20+ RESTful API endpoints** → **40% faster** response times via Redis caching & query tuning
+- 💾 Improved **database query performance by 60%** through indexing, refactoring & Eloquent ORM optimization
+- 🔒 Secured **15,000+ registered users** with JWT authentication & Spatie RBAC implementation
+- 🐛 Reduced **production bugs by 35%** via code reviews, unit testing & Laravel best practices
+- 📈 Maintained **99.9% uptime** across 5+ production applications serving **10,000+ active users**
+
+---
+
+### 🏢 Promotezz International
+**`Full Stack Developer — PHP/Laravel`** &nbsp; | &nbsp; February 2024 – March 2025 *(1 Year 1 Month)*
+
+- 📦 Delivered **9+ production applications** across Healthcare, E-Commerce, CRM & Real Estate — **100% on-time**
+- 🏥 Built **Sehat Khidmat** healthcare platform managing **500+ patient records** with HIPAA-compliant security
+- 💼 Created **OutfitZens CRM** handling **1,000+ customers** → client revenue up **30%**, manual work down **70%**
+- 🛒 Developed **KittabNama** e-commerce platform — **200+ products**, **2-second** load time, **25%** better engagement
+- 📧 Integrated payment gateways, SMS/email automation & third-party APIs, boosting platform capability by **50%**
+- 🎨 Delivered **98% cross-browser compatible** responsive UIs using React.js & Tailwind CSS
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 [Sehat Khidmat](https://sehatkhidmat.com) - Healthcare Management Platform
-**Tech Stack:** `PHP` `Laravel` `MySQL` `RESTful APIs` `SMS Gateway`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" /> <img src="https://img.shields.io/badge/Users-500+-blue?style=flat-square" />
+### 🏥 Sehat Khidmat
+**Healthcare Management Platform**
 
-A comprehensive healthcare management system serving 500+ patients with:
-- ✅ HIPAA-compliant data security and encryption
-- ✅ Automated appointment scheduling (50% time reduction)
-- ✅ Real-time SMS/email notifications
-- ✅ Medical record management and reporting
-- ✅ Patient portal with secure access
+![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) ![Patients](https://img.shields.io/badge/Patients-500+-blue?style=flat-square)
 
-**Impact:** 
-- 📊 Reduced appointment scheduling time by **50%**
-- 🔒 Implemented secure, compliant data handling
-- 📱 Real-time patient communication system
-- 💯 **99.9%** platform uptime
+`Laravel` `MySQL` `REST API` `SMS Gateway`
 
----
+- HIPAA-compliant patient record management
+- Automated appointment scheduling (**50% time saved**)
+- Real-time SMS/email notification system
+- Secure patient portal with encrypted access
+- **99.9% platform uptime**
 
-### 📚 Kifayat - LMS Portal & Book Store Management
-**Tech Stack:** `Laravel` `React.js` `MySQL` `Spatie RBAC` `Payment Gateway`
+🔗 [sehatkhidmat.com](https://sehatkhidmat.com)
 
-<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/Roles-4_Types-purple?style=flat-square" />
+</td>
+<td width="50%" valign="top">
 
-Currently developing a comprehensive Learning Management System with integrated book store featuring 4-role architecture:
+### 💼 OutfitZens CRM
+**Customer Relationship Management**
 
-**User Roles:**
-- 👨‍🏫 **Teacher**: Course creation, student tracking, assessments
-- 👨‍🎓 **Student**: Learning access, assignment submission, progress tracking
-- 👨‍💼 **Admin**: System management, analytics, content moderation
-- 🛒 **Buyer**: Book browsing, purchasing, order management
+![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) ![Customers](https://img.shields.io/badge/Customers-1000+-blue?style=flat-square)
 
-**Technical Highlights:**
-- 🔐 4-role RBAC implementation with 50+ granular permissions
-- 🏗️ Dual-system architecture (LMS + E-commerce)
-- 📦 Real-time inventory management
-- 💳 Secure payment gateway integration
-- 📊 Analytics and reporting dashboard
+`Laravel` `MySQL` `REST API` `Email Automation`
 
----
+- Manages **1,000+ customer** records with BI dashboard
+- Automated email workflows → **70% manual work reduced**
+- Sales pipeline tracking & revenue forecasting
+- Client revenue increased by **30%**
 
-### 💼 [OutfitZens CRM](https://crm.outfitzens.com) - Customer Relationship Management
-**Tech Stack:** `Laravel` `MySQL` `REST API` `Email Automation`
+🔗 [crm.outfitzens.com](https://crm.outfitzens.com)
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" /> <img src="https://img.shields.io/badge/Customers-1000+-blue?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Full-featured CRM managing 1,000+ customers with:
-- 📊 Real-time analytics dashboard with business intelligence
-- 📧 Automated email workflows (70% time reduction)
-- 💰 Sales pipeline tracking and forecasting
-- 📈 Revenue analytics and reporting
-- 🔄 Third-party API integrations
+### 📚 Kifayat LMS
+**Learning Management System** *(In Development)*
 
-**Impact:**
-- 💹 Client revenue increased by **30%**
-- ⏱️ Manual work reduced by **70%**
-- 📈 Improved sales team efficiency
-- 🎯 Better customer engagement tracking
+![Dev](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square) ![Roles](https://img.shields.io/badge/Roles-4_Types-purple?style=flat-square)
 
----
+`Laravel` `React.js` `MySQL` `Spatie RBAC` `Payment Gateway`
 
-### 🛒 [KittabNama](https://kittabnama.mscoder.tech) - E-commerce Platform
-**Tech Stack:** `Laravel` `React.js` `MySQL` `Payment Gateway API`
+- 4-Role RBAC: Teacher · Student · Admin · Buyer
+- **50+ granular permissions** system
+- Dual LMS + E-Commerce architecture
+- Real-time inventory & payment integration
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" /> <img src="https://img.shields.io/badge/Products-200+-green?style=flat-square" />
+</td>
+<td width="50%" valign="top">
 
-Full-stack e-commerce solution with:
-- 🚀 **2-second** average page load time
-- 📦 200+ products with real-time inventory tracking
-- 💳 Secure payment processing and order management
-- 📱 Mobile-first responsive design
-- 🔍 Advanced search and filtering
+### 🛒 KittabNama
+**E-Commerce Platform**
 
-**Impact:**
-- ⚡ **25%** improvement in user engagement
-- 📊 **98%** cross-browser compatibility
-- 🎯 Optimized performance and UX
+![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) ![Products](https://img.shields.io/badge/Products-200+-green?style=flat-square)
 
----
+`Laravel` `React.js` `MySQL` `Payment Gateway`
+
+- **200+ products** with live inventory management
+- **2-second** optimized page load time
+- Secure payment processing & order management
+- **25%** improvement in user engagement
+- **98%** cross-browser compatibility
+
+🔗 [kittabnama.mscoder.tech](https://kittabnama.mscoder.tech)
+
+</td>
+</tr>
+</table>
 
 ### 🔗 Additional Live Projects
 
-| Project | Domain | Tech Stack | Status | URL |
-|---------|--------|------------|--------|-----|
-| **ClickBooster** | Marketing Automation | Laravel, REST API | 🟢 Live | [clickbooster.io](https://clickbooster.io) |
-| **ClickBooster Home** | Landing Page | Laravel, Frontend | 🟢 Live | [home.clickbooster.io](https://home.clickbooster.io) |
-| **ZNet Realty** | Real Estate | PHP, Laravel, MySQL | 🟢 Live | [znetrealty.com](https://znetrealty.com) |
-| **Digital Nest** | Digital Marketing | Laravel, Tailwind CSS | 🟢 Live | [digitalnest1st.com](https://digitalnest1st.com) |
-| **Promotezz International** | Business Platform | Laravel, Bootstrap | 🟢 Live | [promotezzinternationl.com](https://promotezzinternationl.com) |
-| **Royal World** | Real Estate CRM | Laravel, React.js | 🟢 Live | [royalworld.clickbooster.io](https://royalworld.clickbooster.io) |
+| Project | Domain | Tech Stack | URL |
+|---------|--------|-----------|-----|
+| **ClickBooster** | Marketing Automation | Laravel · REST API | [clickbooster.io](https://clickbooster.io) |
+| **ZNet Realty** | Real Estate | PHP · Laravel · MySQL | [znetrealty.com](https://znetrealty.com) |
+| **Digital Nest** | Digital Marketing | Laravel · Tailwind CSS | [digitalnest1st.com](https://digitalnest1st.com) |
+| **Promotezz International** | Business Platform | Laravel · Bootstrap | [promotezzinternationl.com](https://promotezzinternationl.com) |
+| **Royal World** | Real Estate CRM | Laravel · React.js | [royalworld.clickbooster.io](https://royalworld.clickbooster.io) |
+| **ClickBooster Home** | Landing Page | Laravel · Frontend | [home.clickbooster.io](https://home.clickbooster.io) |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaad3044&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaad3044&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadsaad3044&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaad3044&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="170" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaad3044&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaad3044&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaad3044&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaad3044&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
 </div>
 
 ---
@@ -223,523 +242,82 @@ Full-stack e-commerce solution with:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaad3044&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaad3044&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
+
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 🗺️ Developer Roadmap
 
-### 🏢 CodesInc Software House
-**Backend Developer - PHP/Laravel** | *April 2025 - Present (11 Months)*
-
-```php
-$responsibilities = [
-    'Developing scalable applications serving 10,000+ active users',
-    'Optimizing API endpoints reducing response time by 40%',
-    'Improving database performance by 60% through advanced techniques',
-    'Implementing JWT authentication securing 15,000+ user accounts',
-    'Building Kifayat LMS with 4-role RBAC architecture',
-    'Collaborating with cross-functional teams (95% satisfaction)',
-    'Code reviews and mentoring best practices',
-];
+```text
+2024 Q1 ──► Joined Promotezz · React.js Certification · First production app
+2024 Q2 ──► 5+ apps delivered · Laravel mastery · CRM + Healthcare builds
+2024 Q3 ──► Backend specialization · Joined CodesInc Software House
+2024 Q4 ──► 40% API optimization · 60% DB improvement · Complex RBAC systems
+2025 Q1 ──► Kifayat LMS (4-role) · Docker & AWS learning · Team mentoring
+2026    ──► Cloud deployment · Microservices · Open-source · Personal SaaS 🎯
 ```
-
-**Key Achievements:**
-- 🚀 Built and maintained 5+ production applications
-- ⚡ Optimized 20+ RESTful API endpoints
-- 💾 Improved database queries by 60%
-- 🔒 Secured 15,000+ user accounts
-- 🐛 Reduced production bugs by 35%
-- 📈 Maintained 99.9% uptime
 
 ---
 
-### 🏢 Promotezz International
-**Full Stack Developer - PHP/Laravel** | *February 2024 - March 2025 (1 Year 1 Month)*
-
-```javascript
-const achievements = {
-  projectsDelivered: 9,
-  onTimeDelivery: "100%",
-  healthcarePlatform: "Sehat Khidmat (500+ patients)",
-  crmSystem: "OutfitZens (1,000+ customers)",
-  ecommercePlatform: "KittabNama (200+ products)",
-  technicalStack: ["Laravel", "React.js", "MySQL", "REST APIs"]
-};
-```
-
-**Key Achievements:**
-- 📦 Delivered 9+ production applications with 100% on-time rate
-- 🏥 Built healthcare platform managing 500+ patient records
-- 💼 Created CRM system handling 1,000+ customers (30% revenue boost)
-- 🛒 Developed e-commerce platform with 2-second load time
-- 📧 Automated workflows reducing manual work by 70%
-- 🎨 Delivered responsive interfaces with React.js and Tailwind CSS
-
----
-
-## 🎓 Certifications & Training
+## 🎓 Certifications
 
 <div align="center">
 
-| Certification | Organization | Date |
-|---------------|--------------|------|
-| ✅ **PHP / Laravel Development** | Promotezz International | July 2024 |
-| ✅ **React.js Frontend Developer** | Al Rehmat IT Institute | March 2024 |
+| 🏅 Certification | 🏢 Issued By | 📅 Date |
+|:----------------:|:-----------:|:-------:|
+| **PHP / Laravel Development** | Promotezz International | July 2024 |
+| **React.js Frontend Developer** | Al Rehmat IT Institute | March 2024 |
 
 </div>
 
 ---
 
-## 📈 What I'm Currently Working On
+## 📅 Weekly Dev Breakdown
 
-```php
-<?php
-
-namespace App\Goals;
-
-class CurrentFocus
-{
-    private array $projects = [
-        'primary' => 'Building Kifayat LMS with 4-role RBAC system',
-        'learning' => [
-            'Docker containerization and orchestration',
-            'AWS cloud services and deployment',
-            'Microservices architecture patterns',
-            'Advanced Laravel performance optimization',
-        ],
-        'contributing' => 'Open-source Laravel packages',
-    ];
-    
-    public function techStack(): array
-    {
-        return [
-            'mastering' => ['Laravel', 'MySQL', 'RESTful APIs', 'RBAC', 'Redis'],
-            'learning' => ['Docker', 'AWS', 'PostgreSQL', 'Node.js', 'Microservices'],
-            'improving' => ['System Design', 'Performance', 'Security', 'Scalability'],
-        ];
-    }
-    
-    public function goals2026(): array
-    {
-        return [
-            'Master cloud deployment (AWS/Docker)',
-            'Build production-ready microservices',
-            'Contribute to 5+ open-source projects',
-            'Launch personal SaaS product',
-            'Mentor junior developers',
-        ];
-    }
-}
+```text
+PHP / Laravel        ████████████░░░░░░░░   60%   ~12 hrs
+React / JavaScript   ████░░░░░░░░░░░░░░░░   20%   ~4 hrs
+SQL / Database       ██░░░░░░░░░░░░░░░░░░   10%   ~2 hrs
+Documentation        █░░░░░░░░░░░░░░░░░░░    5%   ~1 hr
+Code Review          █░░░░░░░░░░░░░░░░░░░    5%   ~1 hr
 ```
-
----
-
-## 💡 Core Competencies
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend Development
-```yaml
-Languages:
-  - PHP (OOP, Design Patterns)
-  - SQL (Advanced Queries)
-  - JavaScript (ES6+)
-
-Frameworks:
-  - Laravel (2 years production)
-  - RESTful API Design
-  - MVC Architecture
-
-Database:
-  - MySQL (Advanced)
-  - Database Design
-  - Query Optimization
-  - Eloquent ORM
-  - Redis Caching
-```
-
-</td>
-<td width="50%">
-
-### Security & Performance
-```yaml
-Authentication:
-  - JWT Implementation
-  - Spatie RBAC
-  - Session Management
-  - OAuth Integration
-
-Optimization:
-  - API Response: 40% faster
-  - Database: 60% improved
-  - Caching Strategies
-  - Query Performance
-
-Compliance:
-  - HIPAA Standards
-  - Data Encryption
-  - Secure Coding
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Professional Metrics
-
-<div align="center">
-
-| 📊 Metric | 🎯 Achievement | 💪 Impact |
-|-----------|----------------|-----------|
-| **Production Apps** | 9+ Deployed | Serving 10,000+ users |
-| **API Performance** | 40% Faster | Better UX |
-| **Database Optimization** | 60% Improved | Reduced costs |
-| **Uptime** | 99.9% | High reliability |
-| **Bug Reduction** | 35% Fewer | Quality code |
-| **On-Time Delivery** | 100% Rate | Client trust |
-| **Client Satisfaction** | 95% Score | Repeat business |
-| **Code Reviews** | 50+ Conducted | Team growth |
-
-</div>
-
----
-
-## 🌟 Code Philosophy
-
-```javascript
-const codingPrinciples = {
-  clean: "Write code that humans can read",
-  tested: "Test early, test often, test everything",
-  secure: "Security is not optional, it's mandatory",
-  optimized: "Premature optimization is evil, but planned optimization is smart",
-  documented: "Future you will thank present you for good docs",
-  collaborative: "Code reviews make everyone better",
-  learning: "Every bug is a lesson, every feature is growth",
-  
-  favoriteQuote: "Code is like humor. When you have to explain it, it's bad."
-};
-```
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations, collaboration opportunities, and knowledge sharing!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mscoder3044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mscoder3044@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaad-dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_300_8798679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923083293044)
-[![Phone](https://img.shields.io/badge/Phone-+92_308_3293044-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+923083293044)
-
-</div>
-
-**📍 Location:** Rahim Yar Khan, Punjab, Pakistan  
-**🕐 Timezone:** PKT (UTC+5)  
-**💼 Status:** Currently employed, open to opportunities  
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I'm currently **looking for**:
-
-<div align="center">
-
-| 💼 Type | 🎯 Preference | 📍 Location |
-|---------|---------------|-------------|
-| Full-time Backend/Full-Stack | ⭐⭐⭐⭐⭐ | Remote/Hybrid |
+| 💼 Role | ⭐ Interest | 📍 Location |
+|:-------:|:----------:|:-----------:|
+| Backend / Full-Stack Developer | ⭐⭐⭐⭐⭐ | Remote / Hybrid |
 | Healthcare Tech Projects | ⭐⭐⭐⭐⭐ | Any |
 | EdTech & LMS Development | ⭐⭐⭐⭐⭐ | Any |
-| Freelance/Contract Work | ⭐⭐⭐⭐ | Remote |
-| Open-source Collaborations | ⭐⭐⭐⭐⭐ | Remote |
+| Freelance / Contract | ⭐⭐⭐⭐ | Remote |
+| Open-Source Collaboration | ⭐⭐⭐⭐⭐ | Remote |
 
-</div>
-
----
-
-## 🌟 Fun Facts
-
-```javascript
-const muhammadSaad = {
-  pronouns: "he/him",
-  location: "Rahim Yar Khan, Pakistan",
-  timezone: "PKT (UTC+5)",
-  
-  code: {
-    languages: ["PHP", "JavaScript", "SQL", "HTML", "CSS"],
-    frameworks: ["Laravel", "React.js", "Bootstrap", "Tailwind CSS"],
-    databases: ["MySQL", "Redis", "PostgreSQL (learning)"],
-    tools: ["Git", "Postman", "VS Code", "Docker (learning)"]
-  },
-  
-  currentFocus: "Building Kifayat LMS - 4-Role Learning Management System",
-  
-  askMeAbout: [
-    "Laravel best practices",
-    "API optimization techniques", 
-    "Database performance tuning",
-    "Healthcare tech solutions",
-    "RBAC implementation"
-  ],
-  
-  funFacts: [
-    "I can optimize a database query faster than deciding lunch! 🍕⚡",
-    "My code works 60% better after optimization (proven!) 📊",
-    "I've built apps for 10,000+ users but still get nervous deploying 😅",
-    "Coffee ☕ + Code 💻 = Perfect workflow",
-    "I debug production issues like a detective 🕵️"
-  ],
-  
-  lifePhilosophy: "Write code that makes future developers smile, not cry 😊"
-};
-```
+> 📬 **Notice Period:** Immediate — for the right opportunity!
 
 ---
 
-## 📚 Learning Journey
-
-```yaml
-2024_Q1:
-  - Started professional journey at Promotezz International
-  - Built first production healthcare app (Sehat Khidmat)
-  - Learned React.js and modern frontend
-
-2024_Q2:
-  - Delivered 5+ production applications
-  - Mastered Laravel and RESTful APIs
-  - Built CRM handling 1,000+ customers
-
-2024_Q3:
-  - Specialized in backend development
-  - Joined CodesInc Software House
-  - Started Kifayat LMS project
-
-2024_Q4:
-  - Optimized APIs by 40%
-  - Implemented complex RBAC systems
-  - Improved database performance 60%
-
-2025_Q1:
-  - Building Kifayat LMS with 4-role system
-  - Learning Docker and AWS
-  - Mentoring junior developers
-
-2026_Goals:
-  - Master Docker & AWS
-  - Build microservices
-  - Contribute to open-source
-  - Launch personal SaaS
-  - Expand technical leadership
-```
-
----
-
-## 📝 Latest Blog Posts & Learnings
-<!-- BLOG-POST-LIST:START -->
-💡 Coming soon: Sharing knowledge about:
-- Laravel performance optimization techniques
-- Building scalable RBAC systems
-- Healthcare tech development best practices
-- API design and optimization strategies
-- Database performance tuning tips
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💻 Development Setup
-
-```yaml
-OS: Ubuntu 22.04 LTS / Windows 11
-Editor: VS Code with extensions
-  - PHP Intelephense
-  - Laravel Blade Snippets
-  - ESLint
-  - Prettier
-  - GitLens
-
-Terminal: Zsh with Oh My Zsh
-Database: MySQL Workbench
-API Testing: Postman
-Version Control: Git + GitHub
-Deployment: cPanel / Docker (learning)
-
-Workspace:
-  - Dual monitors for productivity
-  - Mechanical keyboard (for that satisfying click)
-  - Coffee machine (essential!) ☕
-```
-
----
-
-## 🎨 Code Snippet Showcase
-
-```php
-<?php
-
-namespace App\Services;
-
-use Illuminate\Support\Facades\Cache;
-use Illuminate\Support\Facades\DB;
-
-class PerformanceOptimization
-{
-    /**
-     * Example: How I reduced API response time by 40%
-     */
-    public function getOptimizedUserData(int $userId): array
-    {
-        // Step 1: Implement caching (saves 60% of database queries)
-        return Cache::remember("user.{$userId}", 3600, function () use ($userId) {
-            
-            // Step 2: Use eager loading (prevents N+1 queries)
-            $user = User::with([
-                'profile',
-                'posts.comments',
-                'roles.permissions'
-            ])->findOrFail($userId);
-            
-            // Step 3: Select only needed columns (reduces data transfer)
-            return [
-                'id' => $user->id,
-                'name' => $user->name,
-                'email' => $user->email,
-                'posts' => $user->posts->map(function ($post) {
-                    return [
-                        'id' => $post->id,
-                        'title' => $post->title,
-                        'comments_count' => $post->comments->count()
-                    ];
-                }),
-                'permissions' => $user->getAllPermissions()->pluck('name')
-            ];
-        });
-    }
-    
-    /**
-     * Database query optimization example
-     */
-    public function getOptimizedReports(): Collection
-    {
-        // Before: 800ms query time
-        // After: 120ms query time (60% improvement)
-        
-        return DB::table('reports')
-            ->select([
-                'id',
-                'title',
-                'created_at',
-                DB::raw('COUNT(views.id) as view_count')
-            ])
-            ->leftJoin('views', 'reports.id', '=', 'views.report_id')
-            ->where('reports.status', 'published')
-            ->groupBy('reports.id')
-            ->orderByDesc('view_count')
-            ->limit(10)
-            ->get();
-    }
-}
-```
-
----
-
-## 🔧 Tools I Use Daily
+## 📫 Let's Connect
 
 <div align="center">
 
-| Category | Tools |
-|----------|-------|
-| 💻 **IDE** | VS Code, PHPStorm |
-| 🗄️ **Database** | MySQL Workbench, TablePlus |
-| 🧪 **API Testing** | Postman, Insomnia |
-| 🎨 **Design** | Figma, Adobe XD |
-| 📊 **Project Mgmt** | Trello, Notion, Jira |
-| 🔄 **Version Control** | Git, GitHub, GitKraken |
-| 🚀 **Deployment** | cPanel, Docker, AWS (learning) |
-| 📝 **Documentation** | Markdown, Notion, Swagger |
-| 💬 **Communication** | Slack, Discord, Zoom |
+[![Email](https://img.shields.io/badge/Email-mscoder3044@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mscoder3044@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaad-dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923083293044)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadsaad3044)
 
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-PHP/Laravel      12 hrs ████████████░░░░░░░░  60%
-React/JavaScript  4 hrs ████░░░░░░░░░░░░░░░░  20%
-SQL/Database      2 hrs ██░░░░░░░░░░░░░░░░░░  10%
-Documentation     1 hr  █░░░░░░░░░░░░░░░░░░░   5%
-Code Review       1 hr  █░░░░░░░░░░░░░░░░░░░   5%
-```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💻 "First, solve the problem. Then, write the code." - John Johnson
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing.&fontSize=16&fontColor=e94560&animation=fadeIn&fontAlignY=65" />
 
-### 🚀 "Make it work, make it right, make it fast." - Kent Beck
-
----
-
-**⭐ If you find my work interesting, consider giving my repos a star!**
-
-**🤝 Open to collaborations, freelance projects, and full-time opportunities!**
-
----
-
-![Profile Views Counter](https://komarev.com/ghpvc/?username=muhammadsaad3044&color=1F4E78&style=for-the-badge&label=Profile+Views)
-
----
-
-<sub>Built with ❤️ by Muhammad Saad | Last Updated: March 2026</sub>
+<sub>🛠️ Built with passion by <strong>Muhammad Saad</strong> | Last Updated: May 2026</sub>
 
 </div>
-
----
-
-## 📞 Quick Contact
-
-```yaml
-Name: Muhammad Saad
-Role: Backend Developer
-Experience: 2 Years
-Location: Rahim Yar Khan, Pakistan
-Email: mscoder3044@gmail.com
-Phone: +92 308 3293044
-WhatsApp: +92 300 8798679
-LinkedIn: linkedin.com/in/muhammadsaad-dev
-GitHub: github.com/muhammadsaad3044
-
-Availability: Open to opportunities
-Preferred Work: Remote/Hybrid
-Notice Period: Immediate (for the right opportunity)
-```
-
----
-
-<div align="center">
-
-### 🌟 Thank you for visiting! Let's build something amazing together! 🌟
-
-[![GitHub Follow](https://img.shields.io/github/followers/muhammadsaad3044?label=Follow&style=social)](https://github.com/muhammadsaad3044)
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin)](https://linkedin.com/in/muhammadsaad-dev)
-
-</div>
-```
