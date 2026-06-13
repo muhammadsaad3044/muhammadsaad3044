@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Muhammad%20Saad&fontSize=55&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Building%20Scalable%20Solutions&descAlignY=60&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Muhammad%20Saad&fontSize=55&f3ontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Building%20Scalable%20Solutions&descAlignY=60&descSize=16&descColor=a8b2d8" />
 
 </div>
 
@@ -17,7 +17,7 @@
 [![Email](https://img.shields.io/badge/mscoder3044@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mscoder3044@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Muhammad_Saad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaad-dev)
 [![GitHub](https://img.shields.io/badge/muhammadsaad3044-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadsaad3044)
-[![WhatsApp](https://img.shields.io/badge/+92_300_8798679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923083293044)
+[![WhatsApp](https://img.shields.io/badge/+92_308_3293044-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923083293044)
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammadsaad3044&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)](https://github.com/muhammadsaad3044)
 
 📍 **Rahim Yar Khan, Punjab, Pakistan** &nbsp;|&nbsp; 🕐 **PKT (UTC+5)** &nbsp;|&nbsp; 💼 **Open to Opportunities**
